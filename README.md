@@ -1,2 +1,2 @@
-# Py-Ex
+# Py_Ex
 just some exercises.
