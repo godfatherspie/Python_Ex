@@ -1,3 +1,5 @@
+#Print the sum of the current number and the previous number
+
 previous_num = 0
 i = 1
 for i in range(10):
