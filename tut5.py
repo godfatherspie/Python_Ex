@@ -1,3 +1,5 @@
+#Check if the first and last number of a list is the same
+
 def t_f(list1):
     print("Given list: "+str(list1))
 
