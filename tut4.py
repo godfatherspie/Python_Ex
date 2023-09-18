@@ -1,3 +1,5 @@
+#Remove first n characters from a string
+
 def remove_char():
     str1 = input("Enter a string: ")
     n = int(input("Enter the no. of characters you wish to remove: "))
