@@ -1,3 +1,5 @@
+#Print characters from a string that are present at an even index number
+
 str1 = input("Enter a string: ")
 print("Length of string: "+str(len(str1)))
 
