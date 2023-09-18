@@ -1,3 +1,5 @@
+#Check Palindrome Number
+
 def palindrome():
     x = input("Enter a number to check if it is palindrome or not: ")
     if str(x[::-1]) == str(x):
