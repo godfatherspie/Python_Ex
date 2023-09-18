@@ -1,3 +1,5 @@
+#Display numbers divisible by 5 from a list
+
 x = [10,30,49,56,60]
 
 for i in x:
